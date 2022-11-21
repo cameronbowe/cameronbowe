@@ -1,41 +1,41 @@
-<h1 align="left" id="kodirati-title">hi there, i'm kodirati.</h1>
-<h3 align="left">i take projects to a level above next.</h3>
+<h1 align="left" id="kodirati-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
 
 <br>
 
-<h2 align="left" id="kodirati-tech">my knowledge</h2>
+<h2 align="left" id="kodirati">my knowledge</h2>
 
 > what i use day by day, my tools.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#kodirati-tech">
-        <img src="./images/java.png" width="48" height="48" alt="Java" />
+      <a href="#kodirati">
+        <img src="./icons/java.png" width="48" height="48" alt="Java" />
       </a>
       <br>java
     </td>
     <td align="center" width="96">
-      <a href="#kodirati-tech">
-        <img src="./images/mongo-db.png" width="48" height="48" alt="MongoDB" />
+      <a href="#kodirati">
+        <img src="./icons/mongo-db.png" width="48" height="48" alt="MongoDB" />
       </a>
       <br>mongodb
     </td>
     <td align="center" width="96">
-      <a href="#kodirati-tech">
-        <img src="./images/pterodactyl.png" width="48" height="48" alt="Pterodactyl" />
+      <a href="#kodirati">
+        <img src="./icons/pterodactyl.png" width="48" height="48" alt="Pterodactyl" />
       </a>
       <br>pterodactyl
     </td>
     <td align="center" width="96">
-      <a href="#kodirati-tech">
-        <img src="./images/minecraft.png" width="48" height="48" alt="Minecraft" />
+      <a href="#kodirati">
+        <img src="./icons/minecraft.png" width="48" height="48" alt="Minecraft" />
       </a>
       <br>minecraft
     </td>
     <td align="center" width="96">
-      <a href="#kodirati-tech">
-        <img src="./images/discord.png" width="48" height="48" alt="Discord" />
+      <a href="#kodirati">
+        <img src="./icons/discord.png" width="48" height="48" alt="Discord" />
       </a>
       <br>discord
     </td>
@@ -44,10 +44,10 @@
 
 <br>
 
-<h2 align="left" id="kodirati-tech">my statistics</h2>
+<h2 align="left" id="kodirati">my statistics</h2>
 
 > some brief statistics on my publicized code.
 
 <a href="#kodirati-title">
-  <img src="https://raw.githubusercontent.com/kodirati/readme-statistics/output/generated/overview.svg" alt="kodirati" align="right" />
+  <img src="https://raw.githubusercontent.com/kodirati/readme-statistics/output/generated/overview.svg" alt="kodirati" align="left" />
 </a>
