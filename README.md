@@ -13,31 +13,31 @@
       <a href="#kodirati">
         <img src="./icons/java.png" width="48" height="48" alt="Java" />
       </a>
-      <br>java
+      <br>java development
     </td>
     <td align="center" width="96">
       <a href="#kodirati">
         <img src="./icons/mongo-db.png" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>mongodb
+      <br>mongodb development & management
     </td>
     <td align="center" width="96">
       <a href="#kodirati">
         <img src="./icons/pterodactyl.png" width="48" height="48" alt="Pterodactyl" />
       </a>
-      <br>pterodactyl
+      <br>pterodactyl setups & management
     </td>
     <td align="center" width="96">
       <a href="#kodirati">
         <img src="./icons/minecraft.png" width="48" height="48" alt="Minecraft" />
       </a>
-      <br>minecraft
+      <br>minecraft setups, management & development (5+ yrs)
     </td>
     <td align="center" width="96">
       <a href="#kodirati">
         <img src="./icons/discord.png" width="48" height="48" alt="Discord" />
       </a>
-      <br>discord
+      <br>discord setups, management & development (5+ yrs)
     </td>
   </tr>
 </table>
