@@ -1,5 +1,5 @@
-<h1 align="left" id="kodirati-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left" id="kodirati-title">hi there, i'm kodirati.</h1>
+<h3 align="left">i take projects to a level <bold>above</bold> next.</h3>
 
 <br>
 
