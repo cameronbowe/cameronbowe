@@ -1,2 +1,2 @@
-# hi there, i'm kodirati.
-i take projects to a level above next.
+# Hi there, I'm Cam.
+I write software for a living.
