@@ -1,2 +1,2 @@
-# Hi there, I'm Cam.
-I write software for a living.
+# Hi there!
+I'm **Cam**, I write software for a living.
