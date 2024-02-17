@@ -26,6 +26,8 @@ YAML                     11 mins             ░░░░░░░░░░░�
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
-
-
 <!--END_SECTION:waka-->
+
+<br>
+
+_I've only recently installed WakaTime, but these statistics will continue to climb!_
