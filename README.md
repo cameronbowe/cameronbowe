@@ -32,4 +32,4 @@ XML                      26 mins             ░░░░░░░░░░░�
 
 <br>
 
-_I've only recently installed WakaTime, but these statistics will continue to climb!_
+_These statistics use WakaTime, which has not been installed anywhere as close as I've written software._
