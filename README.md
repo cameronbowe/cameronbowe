@@ -2,7 +2,7 @@
 I'm **Cam**, I write software for a living.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.2%20thousand%20lines%20of%20code-blue)
 
@@ -20,10 +20,9 @@ I'm **Cam**, I write software for a living.
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 15 mins       ██████████████████████░░░   86.34 % 
-Kotlin                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Pebble                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     2 hrs 15 mins       ████████████████████░░░░░   81.40 % 
+Kotlin                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Pebble                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
