@@ -20,7 +20,7 @@ I'm **Cam**, I write software for a living.
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
