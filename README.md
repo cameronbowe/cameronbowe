@@ -1,2 +1,4 @@
 # Hi there!
-I'm **Cam**, I write software for a living.
+I'm **Cam**!
+
+I build hardware, software, and everything in between.
